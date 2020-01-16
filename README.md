@@ -1,3 +1,3 @@
 # Curriculum-vitae
 
-Resume of Graduate Application
+Resume for Graduate Application
